@@ -48,7 +48,7 @@ A modern, responsive **e-commerce storefront** built with **React.js** and **Tai
 
 ```bash
 # Clone the repository
-git clone https://github.com/himanshugautam04/shopsphere.git
+git clone https://github.com/HimanshuGautam04/shopsphere.git
 cd shopsphere
 
 # Install dependencies
