@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Personal interview prep (not for public repo)
+INTERVIEW_GUIDE.md
